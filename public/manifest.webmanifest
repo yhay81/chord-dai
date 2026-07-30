@@ -1,0 +1,16 @@
+{
+  "name": "コード台",
+  "short_name": "コード台",
+  "description": "手元のコード譜を端末内で整え、移調、カポ、自動スクロール、メトロノームで演奏する譜面台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11161d",
+  "theme_color": "#161b22",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
